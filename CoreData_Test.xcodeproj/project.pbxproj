@@ -15,6 +15,7 @@
 		BA4C0C5B25C8FAE1005A2642 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA4C0C5A25C8FAE1005A2642 /* Assets.xcassets */; };
 		BA4C0C5E25C8FAE1005A2642 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA4C0C5C25C8FAE1005A2642 /* LaunchScreen.storyboard */; };
 		BA4C0C6725C90676005A2642 /* ListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4C0C6625C90676005A2642 /* ListVC.swift */; };
+		BA4C0C6C25CA5271005A2642 /* LogVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA4C0C6B25CA5271005A2642 /* LogVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BA4C0C5D25C8FAE1005A2642 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BA4C0C5F25C8FAE1005A2642 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BA4C0C6625C90676005A2642 /* ListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListVC.swift; sourceTree = "<group>"; };
+		BA4C0C6B25CA5271005A2642 /* LogVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BA4C0C5025C8FADE005A2642 /* SceneDelegate.swift */,
 				BA4C0C5225C8FADE005A2642 /* ViewController.swift */,
 				BA4C0C5425C8FADE005A2642 /* Main.storyboard */,
+				BA4C0C6B25CA5271005A2642 /* LogVC.swift */,
 				BA4C0C6625C90676005A2642 /* ListVC.swift */,
 				BA4C0C5A25C8FAE1005A2642 /* Assets.xcassets */,
 				BA4C0C5C25C8FAE1005A2642 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA4C0C5925C8FADE005A2642 /* CoreData_Test.xcdatamodeld in Sources */,
+				BA4C0C6C25CA5271005A2642 /* LogVC.swift in Sources */,
 				BA4C0C6725C90676005A2642 /* ListVC.swift in Sources */,
 				BA4C0C5325C8FADE005A2642 /* ViewController.swift in Sources */,
 				BA4C0C4F25C8FADE005A2642 /* AppDelegate.swift in Sources */,
